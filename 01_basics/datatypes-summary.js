@@ -30,3 +30,10 @@ const myFunction = function(){
 }
 
 console.log(typeof bigNumber);
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack memory use (Primitive), Heap (Non-Primitive)
+
+let myYoutubename
